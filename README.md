@@ -63,6 +63,32 @@ The analysis uses three datasets from the Spotify Marketing Dataset:
 - Built a moving average chart to analyze follower trends
 - Analyzed correlation between Ad Spend and Follower Growth/App Downloads
 
+
+# Spotify Social Media Analytics
+
+## Project Overview
+
+This project focuses on analyzing Spotify's social media data to evaluate content performance, audience engagement, platform performance, hashtag and content strategy, campaign effectiveness, and follower retention and loyalty.
+
+The analysis was performed using Microsoft Excel.
+
+## Project Objective
+
+The objective of this project is to analyze Spotify's social media data and identify patterns and insights related to engagement, platform performance, content strategy, campaign effectiveness, and follower retention.
+
+## Tool Used
+
+- Microsoft Excel
+
+## Analysis Performed
+
+- Data Preprocessing and Cleaning
+- Engagement Analysis
+- Platform Performance Analysis
+- Hashtag and Content Strategy Analysis
+- Campaign Effectiveness Analysis
+- Follower Retention and Loyalty Analysis
+
 ## 📊 Key Insights & Recommendations
 
 - **Best-performing platform:** [fill in]
